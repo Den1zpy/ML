@@ -1,0 +1,3 @@
+Veri setimden bahsedeyim;Kaggleden bulduğum titanik veri setidir.Nihai amacım bu veri seti üzerinde çalışmalar yaparak kaç kişinin hayatta kaldığını makineye tahmin ettirmeye dayalıdır.
+Test.csv,gender_submission.csv ve train.csv olarak 3 parça halinde veriler vardır.
+Bir takım teknikler kullanarak kaç kişinin hayatta kaldığını tahmin eden bir çalışmadır.
